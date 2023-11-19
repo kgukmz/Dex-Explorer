@@ -1,6 +1,3 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
 CreateGui = function()
 NewGuiPart1 = Instance.new("ScreenGui")
 local NewGuiPart2 = Instance.new("Frame")
